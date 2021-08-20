@@ -9,4 +9,4 @@ To run to code offline you need to add the following things :
 
 1 MongoDb url in db.js in server
 
-2 Auth0 domain name and clinet ID in index.js in client 
+2 Auth0 domain name and client ID in index.js in client 
